@@ -1,0 +1,12 @@
+{
+	"menuElements": [
+		{ "name": "Paella with seafood", "price": "€24", "img": "Seafood-paella.png", "category": "Main Dishes" },
+    { "name": "Duck breast fillet", "price": "€20", "img": "Duck-breast-fillet.png", "category": "Main Dishes" },
+    { "name": "Sauteed seasonal mushrooms", "price": "€10", "img": "Sauteed-seasonal-mushrooms.png", "category": "Main Dishes" },
+    { "name": "Grilled octopus", "price": "€26", "img": "Grilled-octopus.png", "category": "Main Dishes" },
+    { "name": "Grilled Artichokes with Truffle Oil", "price": "€12", "img": "Grilled-Artichokes-with-Truffle-Oil.png", "category": "Main Dishes" },
+    { "name": "Cheescake", "price": "€8", "img": "Cheescake.png", "category": "Desserts" },
+    { "name": "Forest of mushrooms with pistachio, coffee and bourbon sauce", "price": "€14", "img": "Forest-of-mushrooms-with-pistachio,-coffee-and-bourbon-sauce.png", "category": "Desserts" },
+    { "name": "Persimmon tartatin with chocolate caramel and vanilla ice-cream", "price": "€8", "img": "Persimmon-tartatin-with-chocolate-caramel-and-vanilla-ice-cream.png", "category": "Desserts" }
+  ]
+}

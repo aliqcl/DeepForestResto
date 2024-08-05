@@ -1,0 +1,18 @@
+{
+	"menuElements": [
+    { "name": "Bourgogne", "price": "€39" },
+    { "name": "Salice Salentino", "price": "€38" },
+    { "name": "Rioja", "price": "€30" },
+    { "name": "Catalunya", "price": "€25" },
+    { "name": "Mendoza", "price": "€35" },
+    { "name": "Fairy Forest", "price": "€12" },
+    { "name": "Caribbean Buck", "price": "€12" },
+    { "name": "Love Elixir", "price": "€12" },
+    { "name": "Water 1L", "price": "€4" },
+    { "name": "Fresh Orange Juice", "price": "€6" },
+    { "name": "Fruit Juices", "price": "€4,5" }
+  ]
+}
+  
+
+
